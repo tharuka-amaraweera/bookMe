@@ -2,7 +2,6 @@
 <html>
 
 <head>
-<title>BOOKINN - Hotel Reservation Website README</title>
 </head>
 
 <body>
