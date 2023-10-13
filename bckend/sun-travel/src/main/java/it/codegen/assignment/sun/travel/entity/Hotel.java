@@ -9,7 +9,7 @@ import java.util.List;
 
 
 /**
- * The type Hotel.
+ * The type Hotel.....
  */
 @Entity
 @Table(name = "E1829_HOTEL")
